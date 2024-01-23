@@ -12,16 +12,4 @@ Dicee is a simple Flutter-based app that simulates rolling two dice. It provides
 ![dicee](https://github.com/YashM021/Dicee/assets/156659124/263a05ae-2f21-4b45-ab7d-143cec6523f0)
 
 
-## Getting Started
 
-### Prerequisites
-
-- Flutter installed on your machine
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/YashM021/Dicee.git
-   cd Dicee
